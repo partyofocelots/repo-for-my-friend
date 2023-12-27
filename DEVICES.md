@@ -1,4 +1,5 @@
 **📱 My Device Arsenal 📱**
+Thank you partyofocelots for making this repo for me!
 
 1. LG Leon:
    - 2 copies, Stock LG Android 5 and recovery
