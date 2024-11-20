@@ -19,7 +19,7 @@
    - Stock Samsung Android 2.3 and recovery, broken home button
 
 6. Samsung Galaxy S3 Mini:
-   - [TWRP 2.6.3.0](https://eu.dl.twrp.me/golden/), [CarbonROM 4.4.4](https://novafusion.pl/)
+   - [TWRP 2.6.3.0](https://eu.dl.twrp.me/golden/), [CarbonROM 4.4.4 (Download unavailable)](http://get.novafusion.pl/?id=1221)
 
 7. Samsung Galaxy S10 Plus:
    - Daily driver, Stock Samsung Android 12 and recovery
